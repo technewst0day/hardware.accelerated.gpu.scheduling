@@ -1,6 +1,6 @@
 # hardware accelerated gpu scheduling
 
-[![hardware accelerated gpu scheduling](gett-stateed.png)](https://computersolve.com/hardware-accelerated-gpu-scheduling/)
+[![hardware accelerated gpu scheduling](gett-stateed.png)](https://icncomputer.com/hardware-accelerated-gpu-scheduling/)
 
 Usually, your computer’s processor offloads some visual and graphics-intensive data to the GPU to render so that games, multimedia, and other apps run smoothly. The CPU gathers the frame data, assigns commands, and prioritizes them one by one so that the GPU can render the frame.
 
